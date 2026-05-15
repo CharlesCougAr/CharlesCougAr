@@ -142,7 +142,7 @@ const aditya: Developer = {
 
 <br/><br/>
 
-<i>⚡ "Talk is cheap. Show me the code." — Linus Torvalds</i>
+<i>⚡ "Talk is cheap. Show me the code." ~ Linus Torvalds</i>
 
 <br/><br/>
 
