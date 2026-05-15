@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Aditya+Singh+Naga!+%F0%9F%91%8B;Turning+%E2%98%95+Coffee+into+%F0%9F%92%BB+Code+since+forever;Full+Stack+Dev+%7C+Open+Source+Enthusiast+%F0%9F%9A%80;Building+things+that+matter+%F0%9F%94%A5;Welcome+to+my+corner+of+the+internet+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Aditya+Singh+Naga!+%F0%9F%91%8B;Data+Analyst+%7C+Agentic+AI+Builder+%F0%9F%A4%96;Turning+%E2%98%95+Coffee+into+%F0%9F%92%BB+Code+since+forever;Building+intelligent+agents+that+think+%F0%9F%94%A5;Welcome+to+my+corner+of+the+internet+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
@@ -19,8 +19,8 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-India-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-a855f7?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-Los%20Angeles%2C%20CA-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis%20%26%20Agentic%20AI-a855f7?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-%2306b6d4?style=flat-square" />
   <img src="https://img.shields.io/badge/Email-nagaadityasingh%40gmail.com-red?style=flat-square&logo=gmail" />
 </p>
@@ -35,11 +35,11 @@
 const aditya: Developer = {
   name        : "Aditya Singh Naga",
   alias       : "CharlesCougAr",
-  location    : "🇮🇳 India",
+  location    : "📍 Los Angeles, California",
   email       : "nagaadityasingh@gmail.com",
-  passion     : ["Building Products", "Open Source", "AI & ML"],
-  currentFocus: "Full Stack Development",
-  learning    : ["System Design", "DevOps", "LLMs"],
+  passion     : ["Data Analysis", "Agentic AI", "Open Source"],
+  currentFocus: "Data Analysis & Agentic AI",
+  learning    : ["LLMs", "AI Agents", "MLOps"],
   funFact     : "I debug with console.log and I'm absolutely not sorry 😎",
   motto       : "Ship fast, iterate faster 🚀",
 };
